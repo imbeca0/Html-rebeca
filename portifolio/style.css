@@ -1,0 +1,59 @@
+header{
+    background-color: BlueViolet;
+    padding: 50px;
+    text-align: center;
+    padding-bottom: 1px;
+    margin: -30px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color:MediumPurple ;
+    margin: 0px;
+    padding: 30px;
+}
+.habilidades{
+     text-align: right;
+     margin-right: 70px;
+     
+}
+ul{
+    list-style-type:none;
+    color:darkslateblue;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.educacao{
+    text-align: left;
+    margin-left: 70px;
+}
+    
+
+footer{
+    background-color: DarkOrchid;
+    margin: -30px;
+    margin-top: 40px;
+    text-align: center;
+    
+}
+p{
+    font-style: italic;
+}
+#github{
+    width: 40px;
+    padding: 30px;
+ 
+
+}
+#instagram{
+    width: 40px;
+    padding: 30px;
+    
+    
+}
+#github, #instagram{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 70px;
+}
